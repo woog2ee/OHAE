@@ -1,2 +1,2 @@
-# kb-ai-challenge
-KB A.I. Challenge Project Repository
+# OHAE
+제3회 Future Finance A.I. Challenge Project Repository
