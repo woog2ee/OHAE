@@ -20,7 +20,7 @@ MZ세대를 타겟으로 kb증권에서 런칭된 M-able mini에 **'오늘의 �
 ![image](https://user-images.githubusercontent.com/80081987/132034702-2a4d3a87-5cdd-42c6-afe1-6cead4833829.png)
 
 ### 3. 종목에 대한 오해와, 오해에 따른 감성분석을 한눈에
-종목별 오늘의 해시태그, 오해와 그에 따른 연관어가 무엇이며 감성분석 결과가 어떻게 되는지 한번에 확인
+종목별 '오늘의 해시태그, 오해'와 그에 따른 연관어가 무엇이며 감성분석 결과가 어떻게 되는지 한번에 확인
 ![image](https://user-images.githubusercontent.com/80081987/132034722-42c1078f-a2de-464e-be03-2f40d85d977f.png)
 
 ## 🚂 Pipeline
