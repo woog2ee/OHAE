@@ -13,15 +13,15 @@ Designed by [Adobe XD](https://www.adobe.com/kr/products/xd.html)
 
 ### 1. M-able mini와 오해가 만나다
 MZ세대를 타겟으로 kb증권에서 런칭된 M-able mini에 **'오늘의 해시태그, 오해'** 서비스 추가
-![image](https://user-images.githubusercontent.com/80081987/132034609-c8ef4997-9f77-4b3c-bc42-0048a8054fab.png)
+![image](https://user-images.githubusercontent.com/80081987/132034685-32163dc5-3ab3-41b2-8253-cb12c27e871a.png)
 
 ### 2. 일별 언급량으로 많이 언급된 종목이 무엇인지 한눈에
 네이버뉴스, 다음뉴스, 디시인사이드 주식갤러리, 네이버 종토방, 유튜브에 언급된 종목들의 일별 언급량을 한번에 확인
-![image](https://user-images.githubusercontent.com/80081987/131970304-93113df6-126b-468f-a680-5b113a690dd9.png)
+![image](https://user-images.githubusercontent.com/80081987/132034702-2a4d3a87-5cdd-42c6-afe1-6cead4833829.png)
 
 ### 3. 종목에 대한 오해와, 오해에 따른 감성분석을 한눈에
 종목별 오늘의 해시태그, 오해와 그에 따른 연관어가 무엇이며 감성분석 결과가 어떻게 되는지 한번에 확인
-![image](https://user-images.githubusercontent.com/80081987/131970327-8c75886d-2f7b-41f2-93f5-26b6522f40c9.png)
+![image](https://user-images.githubusercontent.com/80081987/132034722-42c1078f-a2de-464e-be03-2f40d85d977f.png)
 
 ## 🚂 Pipeline
 ### 1. Data Collection & Preprocessing
