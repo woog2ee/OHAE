@@ -13,7 +13,7 @@ Designed by [Adobe XD](https://www.adobe.com/kr/products/xd.html)
 
 ### 1. M-able mini와 오해가 만나다
 MZ세대를 타겟으로 kb증권에서 런칭된 M-able mini에 **'오늘의 해시태그, 오해'** 서비스 추가
-![image](https://user-images.githubusercontent.com/80081987/131970285-0da92a53-05a2-4cb6-b2ba-605e02b59929.png)
+![image](https://user-images.githubusercontent.com/80081987/132034609-c8ef4997-9f77-4b3c-bc42-0048a8054fab.png)
 
 ### 2. 일별 언급량으로 많이 언급된 종목이 무엇인지 한눈에
 네이버뉴스, 다음뉴스, 디시인사이드 주식갤러리, 네이버 종토방, 유튜브에 언급된 종목들의 일별 언급량을 한번에 확인
