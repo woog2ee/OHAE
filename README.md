@@ -24,7 +24,7 @@ MZ세대를 타겟으로 kb증권에서 런칭된 M-able mini에 **'오늘의 �
 ![image](https://user-images.githubusercontent.com/80081987/132034722-42c1078f-a2de-464e-be03-2f40d85d977f.png)
 
 ## 🚂 Pipeline
-### 1. Data Collection & Preprocessing
+### 1. Data Crawling & Preprocessing
 네이버뉴스, 다음뉴스, 디시인사이드 주식갤러리, 네이버 종토방, 유튜브에   
 종목이 언급된 게시글 및 영상의 제목/본문/댓글을 Selenium과 BeautifulSoup으로 크롤링
 
