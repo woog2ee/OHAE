@@ -1,9 +1,9 @@
 # OHAE
 KB 3rd Future Finance A.I. Challenge Project Repository   
-Check out Presentation at [Link](https://github.com/woog2ee/OHAE/blob/main/KB%20Future%20Finance%20A.I.%20Challenge%20%EA%B8%B0%EC%88%A0%EC%84%A4%EB%AA%85%EC%84%9C%20KB%EC%A6%9D%EA%B6%8C%20M-able%EC%9D%B4%20%ED%92%88%EC%9D%80%20%EC%98%A4%ED%95%B4%ED%8C%80.pdf)
+Check out Presentation at [Link](https://github.com/woog2ee/OHAE/blob/main/KB%20Future%20Finance%20A.I.%20Challenge%20%EA%B8%B0%EC%88%A0%EC%84%A4%EB%AA%85%EC%84%9C%20(OHAE%ED%8C%80).pdf)
 
 ## 👪 Teammates
-- Team name: **KB증권 M-able mini가 품은 오해**
+- Team name: **OHAE팀**, KB증권 M-able mini가 품은 오해
 - **Seunguk Yu**: School of Computer Science & Engineering in CAU   
 - **Yejin Kwon**: School of Applied Statistics in CAU   
 - **Minju Kim**: School of Business & Economics in CAU   
